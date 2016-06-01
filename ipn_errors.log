@@ -1,0 +1,11 @@
+Array
+(
+    [0] => cURL error: [77] error setting certificate verify locations:
+  CAfile: /usr/share/nginx/sonicspringfling.com/cert/api_cert_chain.crt
+  CApath: /etc/ssl/certs
+)
+
+Array
+(
+)
+

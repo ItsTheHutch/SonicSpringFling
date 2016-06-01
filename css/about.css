@@ -1,0 +1,80 @@
+/*
+ * Video page styles
+ */
+
+
+ /*
+  * 2015 div
+  */
+
+.ssf2015{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/SSF15.png');
+	color: #fff;
+	padding: 34px 20px;	
+	background-repeat: no-repeat;
+    background-position: center;
+}
+
+.ssf2015 h3, .ssf2015 h2{
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.ssf2015 .media-body{
+	padding-left: 20px;
+}
+
+.ssf2015 a{
+    color: #fbcf0f;
+}
+
+
+
+/*
+ * 2014 div
+ */
+
+.ssf2014{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/space.png');
+	color: #fff;
+	padding: 34px 20px;
+}
+
+.ssf2014 h3, .ssf2014 h2{
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.ssf2014 .media-body{
+	padding-left: 20px;
+}
+
+.ssf2014 a{
+    color: #b8bcfd;
+}
+
+
+/*
+ * YouTube div
+ */
+
+.about-heet{
+	background: white;
+	color: #000;
+	padding: 34px 0;
+	text-align: center;
+}
+
+.about-heet h1{
+	font-size: 60px;
+}
+
+.about-heet a:link, .about-heet a:active, .about-heet a:visited{
+		color: #e52d27;
+}
+
+.about-heet #twitch:link, .about-heet #twitch:active, .about-heet #twitch:visited{
+		color: #6441a5;
+}
+
+.about-heet .media-body{
+	padding-left: 20px;
+}
